@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art_title1">Untitled</string>
+    <string name="art_title2">Chicago</string>
+    <string name="art_title3">Bigger Splash</string>
+    <string name="art_title4">Downtown</string>
+
+    <string name="art_artist_and_year1">Unknown (2021)</string>
+    <string name="art_artist_and_year2">David Hockney (1986)</string>
+    <string name="art_artist_and_year3">David Hockney (1992)</string>
+    <string name="art_artist_and_year4">David Hockney (1991)</string>
+
+    <string name="btn_prev">Previous</string>
+    <string name="btn_next">Next</string>
+</resources>
